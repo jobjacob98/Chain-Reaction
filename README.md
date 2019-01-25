@@ -1,10 +1,13 @@
-# Chain-Reaction
+# Chain Reaction
 
-A game called Chain Reaction implemented using the Phaser Framework in JavaScript. Also contains an AI agent to play against us. 
+Chain Reaction is a strategic board game that can be played by 2-8 players. We developed an AI agent for playing this game against a single opponent. The agent decides its moves using the alpha–beta pruning algorithm. <br/>
 
-Install Flask
-http://flask.pocoo.org/docs/1.0/installation/
+The game was developed in JavaScript using a HTML5 game framework called Phaser. The agent was developed in Python and an API was built using Flask to link the game and the agent. <br/>
 
-Run the api.py file.
+This repo contains all the code related to this project. <br/>
 
-### ReadMe yet to complete!! Contact me for any help/doubts regarding this project. ###
+How to use: <br/>
+1) Install Flask: http://flask.pocoo.org/docs/1.0/installation/ <br/>
+2) Run the api.py file. <br/>
+
+### Feel free contact me for any help/doubts regarding this project!! ###
