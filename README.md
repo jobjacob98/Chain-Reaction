@@ -8,7 +8,8 @@ This repo contains all the code related to this project. <br/>
 
 How to use: <br/>
 1) Install Flask: http://flask.pocoo.org/docs/1.0/installation/ <br/>
-2) Run the api.py file. <br/>
-3) The browser will automatically pop-up with the game. Enjoy playing!
+2) Download this repo. <br/>
+3) Run the api.py file. <br/>
+4) The browser will automatically pop-up with the game. Enjoy playing!
 
 ### Feel free contact me for any help/doubts regarding this project!! ###
