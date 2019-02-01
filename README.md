@@ -12,4 +12,4 @@ How to use: <br/>
 3) Run the api.py file. <br/>
 4) The browser will automatically pop-up with the game. Enjoy playing!
 
-### Feel free contact me for any help/doubts regarding this project!! ###
+### Feel free to contact me for any help/doubts regarding this project!! ###
