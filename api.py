@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify, render_template
 import json
 
-from agent.alpha_beta import *
 from agent.board import *
+from agent.alpha_beta import *
 import time
 
 board = Board()
@@ -20,9 +20,11 @@ def main():
 	agent_turn = int(request.form['player'])
 	cur_board = json.loads(request.form['board'], encoding="utf-8")
 
-	board.input(cur_board, agent_turn)
+	board.input(cur_board,agent_turn)
 
 	if game_mode == 2:
-		return json.dumps(list(alpha_beta(board,4)))
+		return json.dumps(list(alpha_beta(board,3)))
+
+
 
 app.run()

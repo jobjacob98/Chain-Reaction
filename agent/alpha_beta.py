@@ -6,8 +6,11 @@ def alpha_beta(b,depth = 2):
 	alpha = -300
 	beta = 300
 	moves = b.valid_move()
-	if depth == 1:
-		random.shuffle(moves)
+	
+	if len(moves) <= 10:
+		depth = 5
+
+	random.shuffle(moves)
 	player = b.player
 
 	b_score = -300
