@@ -14,4 +14,3 @@ How to use: <br/>
 
 Developed by Job Jacob and Paul Antony, BTech CSE at FISAT - batch of 2016-2020.
 
-### Feel free to contact me for any help/doubts regarding this project!! ###
