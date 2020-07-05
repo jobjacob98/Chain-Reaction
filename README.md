@@ -12,5 +12,5 @@ How to use: <br/>
 3) Run the api.py file. <br/>
 4) The browser will automatically pop-up with the game. Enjoy playing!
 
-Developed by Job Jacob and Paul Antony, BTech CSE at FISAT - batch of 2016-2020.
+Developed by Job Jacob and Paul Antony, BTech CSE at FISAT – batch of 2016-2020.
 
