@@ -1,8 +1,8 @@
 # Chain Reaction #
 
-Chain Reaction is a strategic board game that can be played by 2-8 players. We developed an AI agent for playing this game against a single opponent. The agent decides its moves using the alpha–beta pruning algorithm. <br/>
+Chain Reaction is a strategic board game that can be played by 2-8 players. We developed an AI agent for playing this game against a single opponent. The agent decides its moves using the alpha-beta pruning algorithm.
 
-The game was developed in JavaScript using a HTML5 game framework called Phaser. The agent was developed in Python and an API was built using Flask to link the game and the agent. <br/>
+The game was developed in JavaScript using Phaser 3. The agent was developed in Python and an API was built in Flask to link the game with the agent.
 
 This repo contains all the code related to this project. <br/>
 
